@@ -18,7 +18,7 @@ mov ah, 0x13
 mov al, 0x01
 mov bl, 0x00
 mov bh, 0x00
-mov cx, 9
+mov cx, 11
 mov dh, 5
 mov dl, 0
 mov bp, frase
